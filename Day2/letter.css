@@ -1,0 +1,12 @@
+title
+{
+    font-size:bold;
+}
+body{
+    float:inline-start;
+    margin: auto;
+    background-color: white;
+    max-width: 1000px;
+    font-family:'Times New Roman', Times, serif ;
+    font-weight: normal;
+}
