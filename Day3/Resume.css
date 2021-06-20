@@ -1,0 +1,47 @@
+.header{
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 40px;
+    color: blue;
+
+}
+.header h1{
+    z-index: 1;
+    display: inline;
+}
+#ph{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+#sde{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+.header h3{
+    z-index: 1;
+    display: inline;
+}
+.left1{
+    float: left;
+    max-width: 30%;
+    padding-left: 100px;
+    border-left: solid;
+    border-color: blue;
+    border-width: 5px;
+}
+.right1{
+    padding-left: 50px;
+    float: right;
+    max-width: 30%;
+    padding-right: 140px;
+}
+.content{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+#intern2{
+    padding-bottom: 50px;
+}
+*{margin: 0px;}
